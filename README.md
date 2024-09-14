@@ -30,9 +30,10 @@ manage categories, manage users, handle subscriptions, and other content on the 
 
 ## Folder Structure
 
-### Database Files :
-  - **movieaaa.sql**: MySQL database to set up the necessary tables and data for the website.
-
+### movieaaa.sql :
+  - **Database Structure File**: to set up the necessary tables and data for the website.
+    
+### movieaaa.zip :
  ### User-Facing Pages:
   - **index.php**: Main entry point of the website, showing an overview of available movies.
   - **all_category.php**: Displays all available movie categories.
